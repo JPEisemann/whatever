@@ -5,6 +5,9 @@ http://localhost:8000/stocks/{symbol} should return latest stock price based on 
  
 You are limited to writing the rest server using the net/http package, do not use gorilla/mux or beego.
 Bonus(optional):  
+
 Implement in gomodules
+
 Write unit tests
+
 GRPC instead of REST
